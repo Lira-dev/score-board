@@ -1,1 +1,1 @@
-# score-board
+# Aplicativo de placar de jiu-jitsu
